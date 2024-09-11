@@ -11,3 +11,4 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 
 
 ## Diagramas y Diseños
+- [Tarjetas CRC](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EWT9MzTm7CFAlax1E374Od8BLX114N8w785Cty0uWkFdHw?e=41inPQ)
