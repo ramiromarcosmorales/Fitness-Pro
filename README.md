@@ -4,3 +4,10 @@
 **Carrera:** Tecnicatura en Programación <br />
 **Profesor:** Matias Velasquez <br />
 **Año:** 2024 <br />
+
+## Introducción
+
+Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de proporcionar una solución de gestión con el fin de automatizar y optimizar procesos clave, facilitando la administración y mejorar la experiencia de los socios.
+
+
+## Diagramas y Diseños
