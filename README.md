@@ -12,3 +12,22 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 
 ## Diagramas y Diseños
 - [Tarjetas CRC](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EWT9MzTm7CFAlax1E374Od8BLX114N8w785Cty0uWkFdHw?e=41inPQ)
+### A) Registro en el gimnasio
+**Actor:** Socio  
+**Descripción:** El socio se registrará mediante un formulario, se le solicitarán datos correspondientes: nombre, DNI, dirección, teléfono y rellenar una planilla de salud.
+
+### B) Reserva de clase
+**Actor:** Socio  
+**Descripción:** El socio ingresa al sistema, deberá dirigirse al apartado de “reservar”. Allí podrá seleccionar la hora y fecha, y se le mostrará qué tipo de clase y socios están adheridos a esa fecha/horario.
+
+### C) Programar mantenimiento
+**Actor:** Empleado  
+**Descripción:** El empleado ingresa al sistema de control, donde podrá visualizar un listado de máquinas que incluirá cuándo se realizó el último mantenimiento y cuándo falta para el próximo.
+
+### D) Renovación de membresía
+**Actor:** Socio  
+**Descripción:** El socio ingresa al sistema de autogestión, donde podrá visualizar los detalles de su carnet. Allí podrá optar por pagar por anticipado o pagar la cuota correspondiente en el rango del vencimiento de pago.
+
+### E) Cancelar clase
+**Actor:** Socio  
+**Descripción:** El socio ingresará al sistema, deberá ingresar en “mis reservas”. Allí podrá ver el listado de reservas y, si se cumplen las condiciones, podrá cancelar la clase.
