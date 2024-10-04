@@ -16,6 +16,7 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 - [Casos de Uso](https://drive.google.com/file/d/1K1Udk-slMIBMKl3wbf9R11YL1O4HnpAX/view?usp=sharing)
 - [Escenarios de casos de uso](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EdqPXRAiQo9ChdBDC7jDfbwBsp3DChpXSRW0JLNbRorj5g?e=UTKYQQ)
 - [Principios SOLID - Funcionalidad](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EX5-RySvknlIjdGf_w3XZoABK1O4wBZsUGEuv2P9gPwctg?e=j1RbHD)
+- [Principios SOLID - Diagrama](https://drive.google.com/file/d/1LLe2uDBIUfR7eLSLgepFtqEYLh_V1wNs/view?usp=sharing)
 ### A) Registro en el gimnasio
 **Actor:** Socio  
 **Descripción:** El socio se registrará mediante un formulario, se le solicitarán datos correspondientes: nombre, DNI, dirección, teléfono y rellenar una planilla de salud.
