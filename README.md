@@ -14,7 +14,7 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 - [Esbozo del diseño](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EfXCM9YA-yZAraj0vLvRQGsBUQrFdBAL-h8mxdoP-qwICg?e=IBDu6w)
 - [Tarjetas CRC](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EWT9MzTm7CFAlax1E374Od8BLX114N8w785Cty0uWkFdHw?e=41inPQ)
 - [Casos de Uso](https://drive.google.com/file/d/1K1Udk-slMIBMKl3wbf9R11YL1O4HnpAX/view?usp=sharing)
-- [Escenarios de casos de uso](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EdqPXRAiQo9ChdBDC7jDfbwBsp3DChpXSRW0JLNbRorj5g?e=UTKYQQ)
+- [Escenarios de casos de uso](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EU5gRCJWW2RGisABno5Vv54BGfhSdNwqXZZkNOYSInjkHQ?e=DKoSf7)
 - [Principios SOLID - Funcionalidad](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EX5-RySvknlIjdGf_w3XZoABK1O4wBZsUGEuv2P9gPwctg?e=j1RbHD)
 - [Principios SOLID - Diagrama](https://drive.google.com/file/d/1LLe2uDBIUfR7eLSLgepFtqEYLh_V1wNs/view?usp=sharing)
 ### A) Registro en el gimnasio
