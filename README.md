@@ -18,7 +18,7 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 - [Principios SOLID - Funcionalidad](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EX5-RySvknlIjdGf_w3XZoABK1O4wBZsUGEuv2P9gPwctg?e=j1RbHD)
 - [Principios SOLID - Diagrama](https://drive.google.com/file/d/1tabuMEf4mvKGbzlBg0MplYCxpR5suzGK/view?usp=sharing)
 - [Diagrama de Actividades](https://drive.google.com/file/d/1k3yw8CHOzXRxt1pVYUadTynbmT0URLd5/view?usp=sharing)
-- [Diagrama de Secuencias](https://drive.google.com/file/d/1zhrhtpctYXiarCsRiRuhBlDAbkENfrov/view?usp=sharing](https://drive.google.com/file/d/1FSuIaxwQQl5bPGqeEJPRvvvPf9eyaIGO/view?usp=sharing)
+- [Diagrama de Secuencias](https://drive.google.com/file/d/1FSuIaxwQQl5bPGqeEJPRvvvPf9eyaIGO/view?usp=sharing)
 ### A) Registro en el gimnasio
 **Actor:** Socio  
 **Descripción:** El socio se registrará mediante un formulario, se le solicitarán datos correspondientes: nombre, DNI, dirección, teléfono y rellenar una planilla de salud.
