@@ -11,14 +11,24 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 
 
 ## Diagramas y Diseños
-- [Esbozo del diseño](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EfXCM9YA-yZAraj0vLvRQGsBUQrFdBAL-h8mxdoP-qwICg?e=IBDu6w)
-- [Tarjetas CRC](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EWT9MzTm7CFAlax1E374Od8BLX114N8w785Cty0uWkFdHw?e=41inPQ)
-- [Casos de Uso](https://drive.google.com/file/d/1K1Udk-slMIBMKl3wbf9R11YL1O4HnpAX/view?usp=sharing)
-- [Escenarios de casos de uso](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EU5gRCJWW2RGisABno5Vv54BGfhSdNwqXZZkNOYSInjkHQ?e=DKoSf7)
-- [Principios SOLID - Funcionalidad](https://ucesvirtual-my.sharepoint.com/:w:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EX5-RySvknlIjdGf_w3XZoABK1O4wBZsUGEuv2P9gPwctg?e=j1RbHD)
-- [Principios SOLID - Diagrama](https://drive.google.com/file/d/1tabuMEf4mvKGbzlBg0MplYCxpR5suzGK/view?usp=sharing)
-- [Diagrama de Actividades](https://drive.google.com/file/d/1Y0KD7BnuJCpZkL6SAIFn9w_DXK5pxxqp/view?usp=sharing)
-- [Diagrama de Secuencias](https://drive.google.com/file/d/1FSuIaxwQQl5bPGqeEJPRvvvPf9eyaIGO/view?usp=sharing)
+- Diagramas UML
+   - [Diagramas de casos de uso](https://drive.google.com/file/d/1K1Udk-slMIBMKl3wbf9R11YL1O4HnpAX/view)
+   - [Escenarios de casos de uso](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EU5gRCJWW2RGisABno5Vv54BGfhSdNwqXZZkNOYSInjkHQ?rtime=k86VQ48J3Ug)
+   - Diagrama de Clases
+      - Diagrama de Clases v1 (Utilizando SOLID)
+      - Diagrama de Clases v2
+   - [Diagrama de Actividades](https://drive.google.com/file/d/1Y0KD7BnuJCpZkL6SAIFn9w_DXK5pxxqp/view?usp=sharing)
+   - Diagrama de Secuencia
+      - [Caso de uso 1](https://drive.google.com/file/d/1ruiVxHol8TjPpMaA0RkwhzA1LqfV3Y86/view?usp=sharing)
+      - [Caso de uso 2](https://drive.google.com/file/d/14DMqh9AdYj2AOhT434h8tczOwo3G_drn/view?usp=sharing)
+      - [Caso de uso 3](https://drive.google.com/file/d/1PDWPlnItpKjVoFNNBPFFboATMGvRm8BB/view?usp=sharing)
+      - [Caso de uso 4](https://drive.google.com/file/d/1wLbcV5BhQtQ8C591TqdOREd28M7Ri7FL/view?usp=sharing)
+      - [Caso de uso 5](https://drive.google.com/file/d/1k5-wuoM8WpWfPmGqr8NwmevcO8p7wRBI/view?usp=sharing)
+- Herramientas Agile
+   - [Matriz CLAE](https://drive.google.com/file/d/1HtrqIQ6a9mkTdS0UWsOlKsbsnLm4NM3J/view?usp=sharing)
+   - [Tarjetas CRC](https://ucesvirtual-my.sharepoint.com/:x:/g/personal/ramiro_marcos_morales_comunidad_uces_edu_ar/EWT9MzTm7CFAlax1E374Od8BLX114N8w785Cty0uWkFdHw?e=41inPQ)
+- Anexos
+   - [Anexo - Aplicación de Principios SOLID](https://drive.google.com/file/d/10p5ODsOgpKsWSZlrn3EIgJcp3FDRUwBh/view?usp=sharing)
 ### A) Registro en el gimnasio
 **Actor:** Socio  
 **Descripción:** El socio se registrará mediante un formulario, se le solicitarán datos correspondientes: nombre, DNI, dirección, teléfono y rellenar una planilla de salud.
