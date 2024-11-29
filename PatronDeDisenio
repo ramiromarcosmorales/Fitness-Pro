@@ -1,3 +1,3 @@
-- Propósito y Tipo del Patrón
+- **Propósito y Tipo del Patrón**
 El gimnasio Fitness Pro enfrenta problemas de inoperancia y errores en el registro manual de pagos de los socios. Este enfoque manual provoca: retrasos, inconsistencias y dificultades, teniendo un impacto negativo en la eficiencia y experiencia del cliente, ya que los registros no son confiables ni accesibles de forma moderna
 Para abordar este problema, aplicaremos el patrón de diseño Singleton, que se utiliza para garantizar que haya una única instancia de la clase encargada del registro de pagos. 
