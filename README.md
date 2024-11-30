@@ -15,9 +15,3 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
       - [Diagrama de Clases v1 (Utilizando SOLID)](https://drive.google.com/file/d/1tabuMEf4mvKGbzlBg0MplYCxpR5suzGK/view)
       - [Diagrama de Clases v2](https://drive.google.com/file/d/1Uihog1ky1gYfuUoMPgBo33A9VE4n1z3R/view?usp=sharing)
    - [Diagrama de Actividades](https://drive.google.com/file/d/1Y0KD7BnuJCpZkL6SAIFn9w_DXK5pxxqp/view?usp=sharing)
-   - Diagrama de Secuencia
-      - [Caso de uso 1](https://drive.google.com/file/d/1ruiVxHol8TjPpMaA0RkwhzA1LqfV3Y86/view?usp=sharing)
-      - [Caso de uso 2](https://drive.google.com/file/d/14DMqh9AdYj2AOhT434h8tczOwo3G_drn/view?usp=sharing)
-      - [Caso de uso 3](https://drive.google.com/file/d/1PDWPlnItpKjVoFNNBPFFboATMGvRm8BB/view?usp=sharing)
-      - [Caso de uso 4](https://drive.google.com/file/d/1wLbcV5BhQtQ8C591TqdOREd28M7Ri7FL/view?usp=sharing)
-      - [Caso de uso 5](https://drive.google.com/file/d/1k5-wuoM8WpWfPmGqr8NwmevcO8p7wRBI/view?usp=sharing)
