@@ -38,3 +38,15 @@ public class Pago {
     }
 }
 ```
+
+## Instancia de la Clase Pago
+
+```
+public class Main {
+    public static void main(String[] args) {
+        Pago pago1 = new Pago("Ramiro", 1045.40);
+        Pago pago2 = new Pago("Felipe", 1564.50);
+        Pago pago3 = new Pago("Bautista", 4343.20);
+    }
+}
+```
