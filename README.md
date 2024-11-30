@@ -11,4 +11,12 @@ Desarrollo de aplicación para el gimnasio **Fitness Pro** con el objetivo de pr
 
 
 ## Diagramas y Diseños
-   - [Diagrama de Actividades](https://drive.google.com/file/d/1Y0KD7BnuJCpZkL6SAIFn9w_DXK5pxxqp/view?usp=sharing)
+- (Diagramas UML)[https://github.com/ramiromarcosmorales/Fitness-Pro/blob/main/DiagramasUML.md]
+- (Diagrama de Clases)[https://github.com/ramiromarcosmorales/Fitness-Pro/blob/main/DiagramasClases.md]
+- (Diagrama de Secuencia)[https://github.com/ramiromarcosmorales/Fitness-Pro/blob/main/DiagramasSecuencia.md]
+
+## Herramientas Agile
+- (Herramientas Agile)[https://github.com/ramiromarcosmorales/Fitness-Pro/blob/main/HerramientasAgile.md]
+
+## Anexos
+- (Anexos)[https://github.com/ramiromarcosmorales/Fitness-Pro/blob/main/Anexos.md]
