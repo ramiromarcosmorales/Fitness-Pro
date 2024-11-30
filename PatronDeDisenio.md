@@ -15,6 +15,7 @@ Al aplicar este patron de diseño el gimnasio va a tener un sistema moderno, rá
 
 ## Clase Pago
 
+```
 public class Pago {
     private String socio;
     private double total;
@@ -36,4 +37,4 @@ public class Pago {
         return total;
     }
 }
-
+```
