@@ -7,3 +7,33 @@ El sistema de registro manual de pagos genera inconvenientes para el personal co
 
 El patrón de diseño Singleton va a permitir resolver estos problemas mediante la creación de un sistema globalizado que permita gestionar los pagos, esto incluye: automatización ,y consistencia de datos.
 Al aplicar este patron de diseño el gimnasio va a tener un sistema moderno, rápido y confiable, logrando una mejor experiencia tanto para el personal como para el socio.
+
+# Estructura de Clases
+
+# Ejemplo de Código
+
+``
+## Clase Pago
+
+public class Pago {
+    private String socio;
+    private double total;
+
+    public Pago(String socio, double total) {
+        this.socio = socio;
+        this.total = total;
+    }
+
+    public String gettPago() {
+        return "Socio: " + socio + " Total: " + total;
+    }
+
+    public String getSocio() {
+        return socio;
+    }
+
+    public double getTotal() {
+        return total;
+    }
+}
+``
