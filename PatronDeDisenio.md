@@ -12,7 +12,7 @@ Al aplicar este patron de diseño el gimnasio va a tener un sistema moderno, rá
 
 # Ejemplo de Código
 
-``
+
 ## Clase Pago
 
 public class Pago {
@@ -36,4 +36,4 @@ public class Pago {
         return total;
     }
 }
-``
+
