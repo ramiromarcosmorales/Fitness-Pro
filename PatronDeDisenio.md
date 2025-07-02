@@ -12,6 +12,8 @@ Al aplicar este patron de diseño el gimnasio va a tener un sistema moderno, rá
 
 # Estructura de Clases
 
+[Diagrama de Clases v3)](https://drive.google.com/file/d/1b_up4em75Zsy8p8W1IDlDHV3uL1nVfaE/view?usp=sharing)
+
 ![Estructura de Clase](https://drive.google.com/uc?id=1HlqWM3ING3fgS0mYz1fE9MCu9KQ5_dq4)
 
 # Ejemplo de Código
