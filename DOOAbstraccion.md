@@ -5,7 +5,7 @@ La aplicación de este principio nos ayuda a poner foco en lo qué hace el objet
 # Ejemplo en el Proyecto
 Se aplica la abstracción al momento de modelar las entidades como "Empleado", "Socio" y "Maquina", solo se detallan sus características y comportamientos necesarios para el funcionamiento.
 
-// [Diagrama de Clases](https://drive.google.com/file/d/1IS_39AykBr312jyXRHkYRvfO6NLZuoFT/view) 
+[Diagrama de Clases](https://drive.google.com/file/d/1IS_39AykBr312jyXRHkYRvfO6NLZuoFT/view) 
 
 **Justificación técnica**: La utilización de este principio, permite representar únicamente las características y funcionalidades para el sistema, evitando agregando información innecesaria.
 
