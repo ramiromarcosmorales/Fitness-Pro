@@ -4,7 +4,7 @@ Es un proceso fundamental que permite que una clase herede propiedades y comport
 # Ejemplo en el Proyecto 
 
 Si bien el proyecto original no implementó herencia, se realizo un nuevo analisís y se decidió realizar la siguiente mejora: la clase Membresía pasa a ser abstracta, contiene los atributos y métodos básicos, y luego se crean sub-clases para representar los tipos de membresías.
-- [Diagrama UML](link aqui)
+- [Diagrama UML](https://drive.google.com/file/d/1K_jN4m9WBeuxVqOSuiEBKBCtUU5M1NFK/view?usp=sharing)
 
 **Justificación técnica**: La utilización de este principio permitió la reutilización del código y tener un punto de vista jerarquico de las clases.
 
