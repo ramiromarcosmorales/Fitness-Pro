@@ -7,7 +7,7 @@ Se aplica la abstracción al momento de modelar las entidades como "Empleado", "
 
 [Diagrama de Clases](https://drive.google.com/file/d/1IS_39AykBr312jyXRHkYRvfO6NLZuoFT/view) 
 
-**Justificación técnica**: La utilización de este principio, permite representar únicamente las características y funcionalidades para el sistema, evitando agregando información innecesaria.
+**Justificación técnica**: La utilización de este principio permite representar únicamente las características y funcionalidades para el sistema, evitando agregando información innecesaria.
 
 
 # Ejemplo de Código
