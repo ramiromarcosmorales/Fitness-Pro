@@ -6,7 +6,7 @@ Se aplica el encapsulamiento en todas las clases mediante el uso de atributos pr
 
 - [Diagrama UML](https://drive.google.com/file/d/1IS_39AykBr312jyXRHkYRvfO6NLZuoFT/view)
 
-**Justificación técnica**: La utilización de este principio, permite proteger a los objetos de accesos no autorizados, dando lugar a un sistema seguro y regulado.
+**Justificación técnica**: La utilización de este principio permite proteger a los objetos de accesos no autorizados, dando lugar a un sistema seguro y regulado.
 
 # Ejemplo de Código
 El siguiente código representa una clase con atributos privados y métodos getters/setters públicos, cumpliendo con las características de la herencia.
